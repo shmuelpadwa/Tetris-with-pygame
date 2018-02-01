@@ -3,6 +3,22 @@
 #AND WHY ARE ALL THE VARIABLE AND FUNCTIONS TWO LETTERS LONG
 #YOU ARE HORRIBLE, ME FROM 9TH GRADE
 
+'''Dear Mr. Robinson,
+
+	I have been greatly enjoying your class this year, and believe you have done an excellent job thus far. I have greatly admired your ability to strongly teach our class and engage us through hearty topics such as interrogative pronouns. Although I wasn’t initially performing academically on par with what I had hoped, I am pleased to say that my academic achievement within your class has greatly improved throughout the first semester. 
+
+	As I have mentioned to you on multiple occasions throughout this joyous week, my grade in your class currently stands at a proud yet unoptimal 94.49. Due to the DOE grading policy, that would down a full half a point to a measly 94 on my official transcript, which you are surely aware is far from an optimal ending to this wonderful journey on which we have sailed. On the other hand, with even a small bump up to an average of a clean 94.5, I would be able to walk as a God among men(or should I say, a Iuppiter among men), hailing in the cheers of the crowd as I stand upon a golden throne of heroism for my accomplishments in your Latin class.  I know that you were once in my shoes, a starry-eyed student filled with wonder at the journey at which life might take. And as a student, I’m sure you had a teacher who would grade you unfairly and diminish your accomplishments, and I know that you, as a brave, heroic, respected adult, would never want to inflict the same cruel fate on your own beloved student. 
+
+	So I ask you, Mr. Daniel Robinson, a hero among the masses for the wisdom of your teaching, the greatness in every exaltation of your glorious name, to give me but this single request, lest my semester learning in your Latin class end in a sense of sorrow, of regret, of sadness for what could have been. All I need is one tiny, miniscule, almost unnoticeable 0.01, maybe as an extra tenth of a point on a test, as much like a tiny hummingbird flapping its wings can move a mountain with great ease, this tiny increase in grade will lift my spirits from those of sorrow to the annals of ecstasy. I will emerge from my cocoon a strong, beautiful butterfly, able to dominate the second semester of your Latin class with the strongest abilities and powers befitting only the most scholarly Latin students. 
+
+	And now I must make my final plea. Will you be like Narcissus, ignoring echo’s wish for the happiest future, leaving her sad and desolate? Or will you be like Baucis and Philemon, heroes who helped the needy when they needed it most? I’ll just remind you of one fact : Narcissus’ exploits cost him his life, while Baucis and Philemon were rewarded for eternity from the Gods they helped. You are a very smart man, Mr. Robinson, and I trust that you will make the correct decision to aid me in my plight to be a true scholar of the Latin language.
+
+Yours Truly,
+	Shmuel Padwa
+
+PS. Now is your moment to stand up and make this happen. Carpe Diem!
+'''
+
 import random as n
 import pygame
 from pygame import *
